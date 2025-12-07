@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hey, I’m Sean (CrazySnakes / SnakesMenace)
 
-<!--
-**SnakesMenace/SnakesMenace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Aspiring DevOps | Cybersecurity Student | Web Developer | AI Builder**
 
-Here are some ideas to get you started:
+I'm currently studying cybersecurity and working on real-world development projects including  
+**Deepiri Platform**, AI automation tools, DevOps labs, and AWS/GitHub/WSL workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Technologies I Use
+- **Frontend:** React, TypeScript, Vite, Tailwind  
+- **Backend:** Python, Node.js  
+- **DevOps:** Docker, Kubernetes (Minikube), GitHub Actions, WSL2  
+- **Tools:** VS Code, Git, Linux, APIs, AI-powered automation  
+
+### 🐍 Current Projects
+- **Deepiri Web Frontend** – UI redesign, authentication, sidebar, and navbar improvements  
+- **Clan Stats Automation** (World of Tanks API)  
+- **Portfolio Website (In Progress)**  
+
+### 🎯 Goals for 2026
+- Land a **Software/Data Science Internship**  
+- Fully document my portfolio projects  
+- Build more DevOps pipelines + cloud deployments  
+
+---
+
+## 📫 Contact
+- GitHub: **@SnakesMenace**
+- Email: seanwealker1986.sw@gmail.com
+- www.linkedin.com/in/sean-walker-7a2b18320
