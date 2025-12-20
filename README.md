@@ -13,8 +13,7 @@ I'm currently studying cybersecurity and working on real-world development proje
 
 ###  Current Projects
 - **Deepiri Web Frontend** – UI redesign, authentication, sidebar, and navbar improvements  
-- **Clan Stats Automation** (World of Tanks API)  
-- **Portfolio Website (In Progress)**  
+
 
 ###  Goals for 2026
 - Land a **Software/Data Science Internship**  
