@@ -1,8 +1,8 @@
-#  Hey, I’m Sean (CrazySnakes / SnakesMenace)
+#  Hey, I’m Sean (SnakesMenace)
 
  **Aspiring DevOps | Cybersecurity Student | Web Developer | AI Builder**
 
-I'm currently studying cybersecurity and working on real-world development projects including  
+I'm currently studying cybersecurity and working on real-world development projects, including  
 **Deepiri Platform**, AI automation tools, DevOps labs, and AWS/GitHub/WSL workflows.
 
 ###  Technologies I Use
