@@ -25,5 +25,5 @@ I'm currently studying cybersecurity and working on real-world development proje
 
 ##  Contact
 - GitHub: **@SnakesMenace**
-- Email: seanwealker1986.sw@gmail.com
+- Email: seanwalker1986.sw@gmail.com
 - www.linkedin.com/in/sean-walker-7a2b18320
