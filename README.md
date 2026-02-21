@@ -1,28 +1,54 @@
-#  Hey, I’m Sean (SnakesMenace)
+# Sean Walker
+DevOps Engineer | Kubernetes | CI/CD | Distributed Systems | AWS
 
- **Aspiring DevOps | Cybersecurity Student | Web Developer | AI Builder**
-
-I'm currently studying cybersecurity and working on real-world development projects, including  
-**Deepiri Platform**, AI automation tools, DevOps labs, and AWS/GitHub/WSL workflows.
-
-###  Technologies I Use
-- **Frontend:** React, TypeScript, Vite, Tailwind  
-- **Backend:** Python, Node.js  
-- **DevOps:** Docker, Kubernetes (Minikube), GitHub Actions, WSL2  
-- **Tools:** VS Code, Git, Linux, APIs, AI-powered automation  
-
-###  Current Projects
-- **Deepiri Web Frontend** – UI redesign, authentication, sidebar, and navbar improvements  
-
-
-###  Goals for 2026
-- Land a **Software/Data Science Internship**  
-- Fully document my portfolio projects  
-- Build more DevOps pipelines + cloud deployments  
+I design and maintain production-grade CI/CD pipelines, containerized services, and distributed systems.  
+Focused on reliability engineering, observability, and deployment automation.
 
 ---
 
-##  Contact
-- GitHub: **@SnakesMenace**
+## Core Stack
+
+**Infrastructure**
+- Docker, Kubernetes, Helm
+- AWS (EC2, S3, VPC, IAM)
+- GitHub Actions
+- Linux
+
+**Backend & Systems**
+- Python (FastAPI, Django)
+- Node.js
+- Redis, PostgreSQL
+- Kafka
+
+**Monitoring & Reliability**
+- Prometheus
+- Grafana
+- Structured logging
+- Health checks & rollout strategies
+
+---
+
+## Featured Projects
+
+### CI/CD Deployment Automation
+Multi-environment GitHub Actions pipelines with Docker builds, automated versioning, and Kubernetes rollouts.
+
+### Distributed Job Processing System
+Redis/Kafka-based async worker framework with retry logic, idempotent processing, and queue monitoring.
+
+### Observable Kubernetes API
+Containerized service with liveness/readiness probes and Prometheus metrics endpoint.
+
+---
+
+## Currently Working On
+- Expanding Kubernetes production configurations
+- Infrastructure as Code (Terraform)
+- Advanced observability patterns
+
+---
+
+## Contact
+- GitHub: https://github.com/SnakesMenace
+- LinkedIn: www.linkedin.com/in/sean-walker-7a2b18320
 - Email: seanwalkersw3@gmail.com
-- www.linkedin.com/in/sean-walker-7a2b18320
