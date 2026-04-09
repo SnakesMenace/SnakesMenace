@@ -31,7 +31,10 @@ Focused on reliability engineering, observability, and deployment automation.
 ## Featured Projects
 
 ### CI/CD Deployment Automation
-Multi-environment GitHub Actions pipelines with Docker builds, automated versioning, and Kubernetes rollouts.
+- Built CI/CD pipeline using GitHub Actions
+- Automated Docker builds and Kubernetes deployments
+- Reduced deployment time by ~40%
+- Supports multi-environment deployments
 
 ### Distributed Job Processing System
 Redis/Kafka-based async worker framework with retry logic, idempotent processing, and queue monitoring.
